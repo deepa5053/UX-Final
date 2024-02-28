@@ -1,0 +1,51 @@
+
+/*header */
+
+.header{
+  background-color: red;
+  width: 430px;
+  height: 110px;
+  
+  
+}
+.head1{
+  display: flex;
+  flex-direction: row;
+
+}
+.logo{
+  width: 74px;
+  height: 57px;
+  margin-top: 5px;
+  margin-left: 5px;
+}
+
+.name{ 
+margin-left: 80px;
+  color: white;
+  font-size: 10px;
+font-style: italic;
+}
+.dropdown{
+  width: 74px;
+  height: 57px;
+  margin-top: 0px;
+margin-left: 63px;
+  
+}
+.head2{
+  display: flex;
+  flex-direction: row;
+}
+.search{
+  width: 268px;
+  height: 28px;
+  background-color: white;
+  margin-left: 5px;
+}
+.icons{
+  margin-top: 5px;
+  margin-left: 30px;
+}
+
+/*header end*/
