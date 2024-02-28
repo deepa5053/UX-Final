@@ -848,3 +848,274 @@
 }
 /*end of rill*/
 
+.home-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.home-mainpic {
+  width: 428px;
+  height: 281px;
+}
+.home-aboutus {
+  width: 430px;
+  height: 403px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-equipment-rentals {
+  top: 0px;
+  left: 0px;
+  width: 430px;
+  height: 39px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-text {
+  color: rgba(0, 0, 0, 1);
+  width: 430px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: italic;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-about-us-loremipsumdolorsitametconsecteturadipiscing {
+  top: 54px;
+  left: 15px;
+  width: 404px;
+  height: 349px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-text02 {
+  color: rgba(0, 0, 0, 1);
+  width: 404px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: italic;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-pressbg1 {
+  width: 389px;
+  height: 162px;
+}
+.home-rillbg1 {
+  width: 394px;
+  height: 244px;
+}
+.home-button {
+  width: 395px;
+  height: 38px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-rectangle3 {
+  top: 0px;
+  left: 0px;
+  width: 395px;
+  height: 38px;
+  position: absolute;
+}
+.home-frameiconchevronright {
+  top: 4.983606338500977px;
+  left: 348.4240417480469px;
+  width: 34.036285400390625px;
+  height: 28.655736923217773px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-vector {
+  top: 0px;
+  left: 0px;
+  width: 34px;
+  height: 29px;
+  position: absolute;
+}
+.home-text15 {
+  color: rgba(0, 0, 0, 1);
+  width: 304px;
+  height: auto;
+  font-size: 40px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-weldingbg1 {
+  width: 414px;
+  height: 226px;
+}
+.home-button1 {
+  width: 395px;
+  height: 42px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-rectangle31 {
+  top: 0px;
+  left: 0px;
+  width: 395px;
+  height: 42px;
+  position: absolute;
+}
+.home-frameiconchevronright1 {
+  top: 5.508196830749512px;
+  left: 348.4240417480469px;
+  width: 34.036285400390625px;
+  height: 31.672130584716797px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-vector1 {
+  top: 0px;
+  left: 0px;
+  width: 34px;
+  height: 32px;
+  position: absolute;
+}
+.home-text17 {
+  left: 16.122447967529297px;
+  color: rgba(0, 0, 0, 1);
+  width: 306px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-sawbg1 {
+  width: 384px;
+  height: 202px;
+}
+.home-button2 {
+  width: 395px;
+  height: 42px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-rectangle32 {
+  top: 0px;
+  left: 0px;
+  width: 395px;
+  height: 42px;
+  position: absolute;
+}
+.home-frameiconchevronright2 {
+  top: 5.508196830749512px;
+  left: 348.4240417480469px;
+  width: 34.036285400390625px;
+  height: 31.672130584716797px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-vector2 {
+  top: 0px;
+  left: 0px;
+  width: 34px;
+  height: 32px;
+  position: absolute;
+}
+.home-text19 {
+  left: 16.122447967529297px;
+  color: rgba(0, 0, 0, 1);
+  width: 306px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-button3 {
+  width: 395px;
+  height: 42px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-rectangle33 {
+  top: 0px;
+  left: 0px;
+  width: 395px;
+  height: 42px;
+  position: absolute;
+}
+.home-frameiconchevronright3 {
+  top: 5.508196830749512px;
+  left: 348.4240417480469px;
+  width: 34.036285400390625px;
+  height: 31.672130584716797px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-vector3 {
+  top: 0px;
+  left: 0px;
+  width: 34px;
+  height: 32px;
+  position: absolute;
+}
+.home-text21 {
+  left: 16.122447967529297px;
+  color: rgba(0, 0, 0, 1);
+  width: 306px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+/*end of homepage*/
