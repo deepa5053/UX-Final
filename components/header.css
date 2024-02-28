@@ -38,14 +38,15 @@ margin-left: 63px;
   flex-direction: row;
 }
 .search{
-  width: 268px;
+  width: 310px;
   height: 28px;
   background-color: white;
   margin-left: 5px;
 }
 .icons{
   margin-top: 5px;
-  margin-left: 30px;
+  margin-left: 5px;
+  color: black;
 }
 
 /*header end*/
