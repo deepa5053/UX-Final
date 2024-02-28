@@ -1372,3 +1372,86 @@
   height: 61px;
   position: absolute;
 }
+/*login page*/
+.main{
+  margin-top: 200px;
+  margin-bottom: 50px;
+}
+.signUp {
+  font-family: 'Open Sans';
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 22px;
+  letter-spacing: -0.02em;
+  text-align: left;
+  margin-left: 20px;
+}
+
+.signUppara {
+  font-family: 'Open Sans';
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: -0.02em;
+  text-align: left;
+  margin-left: 20px;
+  margin-top: 26px;
+  color: #858585;
+}
+
+
+.email-header {
+  font-family: 'Open Sans';
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 22px;
+  letter-spacing: -0.02em;
+  text-align: center;
+  color: black;
+  margin-top: 45px;
+  margin-left: 15px;
+}
+
+.email-para {
+  font-family: 'Open Sans';
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: -0.02em;
+  text-align: center;
+  margin-top: 20px;
+  width: 350px;
+  height: 50px;
+  margin-left: 15px;
+  border-color: red;
+}
+
+.email {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start
+}
+
+
+.guest-ref {
+  color: black;
+}
+
+.fa-facebook {
+  color: blue;
+  font-size: 40px;
+}
+
+.fa-envelope {
+  font-size: 40px;
+}
+
+
+.button:hover {
+  background-color: #0056b3;
+}
+
+.icons {
+  display: flex;
+  
+}
